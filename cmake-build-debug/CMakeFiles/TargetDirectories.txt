@@ -1,0 +1,3 @@
+/home/fed6/CLionProjects/max_22/cmake-build-debug/CMakeFiles/max_22.dir
+/home/fed6/CLionProjects/max_22/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fed6/CLionProjects/max_22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
